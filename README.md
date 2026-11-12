@@ -18,8 +18,14 @@ A clean and responsive personal finance tracking desktop application built with 
 ## Screenshots
 <img width="1206" height="939" alt="main+view" src="https://github.com/user-attachments/assets/15e0f803-2117-4880-8a46-25dcaa864854" />
 
+## Download & Install (Windows 10/11)
+You can install and run the packaged application directly without opening Visual Studio:
+1. Go to the [Releases](https://github.com/MariaDamyanova0/finance-tracker/releases) page and download `FinanceTracker-v1.0-Windows.zip`.
+2. Extract the `.zip` archive to a folder.
+3. Right-click on **`Install.ps1`** and select **Run with PowerShell** (follow the on-screen prompts to install the local developer certificate and app package).
+4. Launch **Finance Tracker** from the Windows Start Menu.
 
-## How to Run
+## Run from Source
 1. Clone or download this repository.
 2. Open `FinanceTracker.sln` in **Visual Studio** (with the *Universal Windows Platform development* workload installed).
-3. Select **x86** or **x64** and **Local Machine**, then press **F5** to build and run.
+3. Select **x64** and **Local Machine**, then press **F5** to build and run.
