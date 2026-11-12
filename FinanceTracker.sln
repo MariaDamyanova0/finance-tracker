@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37827.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker", "FinanceTracker\FinanceTracker.csproj", "{26F6C094-EA1E-4553-8721-B7045AF9F9BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F595223-9778-417F-988A-002D3C64FD66}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|ARM.Build.0 = Debug|ARM
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|ARM.Deploy.0 = Debug|ARM
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|ARM64.Build.0 = Debug|ARM64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|x64.ActiveCfg = Debug|x64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|x64.Build.0 = Debug|x64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|x64.Deploy.0 = Debug|x64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|x86.ActiveCfg = Debug|x86
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|x86.Build.0 = Debug|x86
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Debug|x86.Deploy.0 = Debug|x86
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|ARM.ActiveCfg = Release|ARM
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|ARM.Build.0 = Release|ARM
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|ARM.Deploy.0 = Release|ARM
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|ARM64.ActiveCfg = Release|ARM64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|ARM64.Build.0 = Release|ARM64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|ARM64.Deploy.0 = Release|ARM64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|x64.ActiveCfg = Release|x64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|x64.Build.0 = Release|x64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|x64.Deploy.0 = Release|x64
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|x86.ActiveCfg = Release|x86
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|x86.Build.0 = Release|x86
+		{26F6C094-EA1E-4553-8721-B7045AF9F9BB}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F77BE73-7315-4C2E-A212-9244A6A038E2}
+	EndGlobalSection
+EndGlobal
